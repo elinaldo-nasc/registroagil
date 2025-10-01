@@ -63,7 +63,7 @@ O Registro Ágil é um sistema web desenvolvido gerenciamento de usuários, com 
    - Aguarde a confirmação de sucesso
 
 4. **Faça login**
-   - Email: `elinaldo.oliveira@outlook.com`
+   - Email: `admin@exemplo.com`
    - Senha: `admin12345`
 
 ### Método 2: Instalação Manual
