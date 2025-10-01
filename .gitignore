@@ -1,0 +1,46 @@
+# Logs
+logs/
+*.log
+
+# Configurações locais
+config_local.php
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Backups
+*.bak
+*_backup_*
+
+# Cache
+cache/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Arquivos de sessão PHP
+sess_*
+
+# Arquivos de upload temporários
+uploads/temp/
+
+# Arquivos de configuração com senhas
+config_production.php
+config_local.php
+
+# Arquivos de exportação temporários
+exports/
+temp_exports/
+
+# Arquivos de debug
+debug.log
+error.log
